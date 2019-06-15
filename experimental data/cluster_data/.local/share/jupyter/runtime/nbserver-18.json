@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/datasets/home/59/159/rkansal",
+  "password": false,
+  "pid": 18,
+  "port": 8888,
+  "secure": false,
+  "token": "2db95113e180471a445e68ff77a1be2783c205235e9a0360a5b0a4d3fe97170c",
+  "url": "http://0.0.0.0:8888/"
+}
